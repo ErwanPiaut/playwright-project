@@ -1,0 +1,13 @@
+{
+  "name": "playwright-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ErwanPiaut/playwright-project.git",
+  "author": "Erwan PIAUD <erwan.piaud@keendoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.0",
+    "@types/node": "^20.12.7"
+  },
+  "scripts": {}
+}
